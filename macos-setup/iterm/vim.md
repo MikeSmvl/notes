@@ -5,7 +5,7 @@ description: >-
   and with Apple macOS.
 ---
 
-# vim
+# VIM
 
 ### Installation <a id="installation"></a>
 

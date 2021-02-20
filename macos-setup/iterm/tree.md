@@ -1,4 +1,4 @@
-# tree
+# Tree
 
 ### Installation <a id="installation"></a>
 
