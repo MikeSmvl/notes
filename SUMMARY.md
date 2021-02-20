@@ -4,6 +4,7 @@
 
 ## MacOs Setup
 
-* [Homebrew](macos-setup/untitled.md)
+* [Homebrew](macos-setup/homebrew/README.md)
+  * [Usage](macos-setup/homebrew/usage.md)
 * [Git](macos-setup/git.md)
 
