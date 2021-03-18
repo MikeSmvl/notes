@@ -12,4 +12,5 @@
 * [Homebrew](macos-setup/homebrew/README.md)
   * [Usage](macos-setup/homebrew/usage.md)
 * [Git](macos-setup/git.md)
+* [System Preferences](macos-setup/system-preferences.md)
 
