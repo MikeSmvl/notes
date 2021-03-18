@@ -4,6 +4,7 @@
 
 ## MacOs Setup
 
+* [System Preferences](macos-setup/system-preferences.md)
 * [iTerm](macos-setup/iterm/README.md)
   * [Visual Studio Code](macos-setup/iterm/visual-studio-code.md)
   * [VIM](macos-setup/iterm/vim.md)
@@ -12,5 +13,4 @@
 * [Homebrew](macos-setup/homebrew/README.md)
   * [Usage](macos-setup/homebrew/usage.md)
 * [Git](macos-setup/git.md)
-* [System Preferences](macos-setup/system-preferences.md)
 
