@@ -13,3 +13,9 @@ Now, install Terraform with `hashicorp/tap/terraform`.
 ```
 brew install hashicorp/tap/terraform
 ```
+
+Install autocompletion
+
+```
+terraform -install-autocomplete
+```
