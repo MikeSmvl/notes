@@ -14,3 +14,6 @@
   * [Usage](macos-setup/homebrew/usage.md)
 * [Git](macos-setup/git.md)
 
+## Infrastructure as Code
+
+* [Terraform](infrastructure-as-code/terraform.md)
