@@ -16,4 +16,5 @@
 
 ## Infrastructure as Code
 
-* [Terraform](infrastructure-as-code/terraform.md)
+* [Terraform](infrastructure-as-code/terraform/README.md)
+  * [Installation](infrastructure-as-code/terraform/installation.md)
