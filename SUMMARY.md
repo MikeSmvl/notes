@@ -18,3 +18,8 @@
 
 * [Terraform](infrastructure-as-code/terraform/README.md)
   * [Installation](infrastructure-as-code/terraform/installation.md)
+
+## Linux Fundamentals
+
+* [Introduction](linux-fundamentals/introduction.md)
+* [Architecture](linux-fundamentals/architecture.md)
