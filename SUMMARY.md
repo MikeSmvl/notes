@@ -23,4 +23,8 @@
 
 * [Introduction](linux-fundamentals/introduction.md)
 * [Architecture](linux-fundamentals/architecture.md)
-* [Server Administration](linux-fundamentals/server-administration.md)
+* [Server Administration](linux-fundamentals/server-administration/README.md)
+  * [User / Groups](linux-fundamentals/server-administration/user-groups.md)
+  * [File Permissions](linux-fundamentals/server-administration/file-permissions.md)
+  * [SSH](linux-fundamentals/server-administration/ssh.md)
+  * [Process Management](linux-fundamentals/server-administration/process-management.md)

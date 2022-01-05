@@ -1,6 +1,6 @@
 # Introduction
 
-Refrence: [https://linkedin.github.io/school-of-sre/level101/linux\_basics/intro/](https://linkedin.github.io/school-of-sre/level101/linux\_basics/intro/)
+This entire section is taken from the following resource: [https://linkedin.github.io/school-of-sre/level101/linux\_basics/intro/](https://linkedin.github.io/school-of-sre/level101/linux\_basics/intro/)
 
 ### What are popular Linux distributions <a href="#what-are-popular-linux-distributions" id="what-are-popular-linux-distributions"></a>
 
