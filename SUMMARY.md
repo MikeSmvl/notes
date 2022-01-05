@@ -23,3 +23,4 @@
 
 * [Introduction](linux-fundamentals/introduction.md)
 * [Architecture](linux-fundamentals/architecture.md)
+* [Server Administration](linux-fundamentals/server-administration.md)
