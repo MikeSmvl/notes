@@ -86,8 +86,12 @@ Service units end with .service file extension. Systemctl command can be used to
 | systemctl status name.service  | Check the status of a service         |
 | systemctl reload name.service  | Reload the configuration of a service |
 
-\
-\
+### Logs <a href="#logs" id="logs"></a>
+
+In this section, we will talk about some important files and directories which can be very useful for viewing system logs and applications logs in Linux. These logs can be very useful when you are troubleshooting on the system.
+
+![](https://linkedin.github.io/school-of-sre/level101/linux\_basics/images/linux/admin/image58.png)
+
 \
 \
 \

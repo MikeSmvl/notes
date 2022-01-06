@@ -6,7 +6,7 @@ On a Linux operating system, each file and directory is assigned access permissi
 
 ![](<../../.gitbook/assets/image (6).png>)
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 #### Chmod command <a href="#chmod-command" id="chmod-command"></a>
 
