@@ -17,7 +17,7 @@ An operating system is considered as multi-user if it allows multiple people/use
 
 The uid and gid associated with the root user is 0.&#x20;
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 A good way to find out the current user in Linux is to use the whoami command.
 
