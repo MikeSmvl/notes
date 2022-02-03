@@ -19,3 +19,9 @@ Install autocompletion
 ```
 terraform -install-autocomplete
 ```
+
+Update Terraform
+
+```
+brew upgrade terraform
+```
