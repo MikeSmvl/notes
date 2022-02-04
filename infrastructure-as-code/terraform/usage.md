@@ -50,7 +50,7 @@ The  plan  command creates an execution plan which allows previewing changes
 > * Compares the current configuration to the prior state and noting any differences.
 > * Proposes a set of change actions that should, if applied, make the remote objects match the configuration.
 
-## apply
+## [apply](https://www.terraform.io/cli/commands/apply)
 
 Next comes the apply command which will execute the actions proposed in the plan.&#x20;
 
@@ -66,7 +66,7 @@ Apply only one resource
 terraform  apply -target="module.s3"
 ```
 
-## Destroy
+## [destroy](https://www.terraform.io/cli/commands/destroy)
 
 ```
  terraform  destroy
