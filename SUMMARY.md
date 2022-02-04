@@ -18,6 +18,7 @@
 
 * [Terraform](infrastructure-as-code/terraform/README.md)
   * [Installation](infrastructure-as-code/terraform/installation.md)
+  * [Usage](infrastructure-as-code/terraform/usage.md)
 
 ## Linux Fundamentals
 
