@@ -1,6 +1,6 @@
 # Installation
 
-[Homebrew](https://brew.sh) is a free and open-source package management system for Mac OS X. Install the official [Terraform formula](https://github.com/hashicorp/homebrew-tap) from the terminal.
+[Homebrew](https://brew.sh/) is a free and open-source package management system for Mac OS X. Install the official [Terraform formula](https://github.com/hashicorp/homebrew-tap) from the terminal.
 
 First, install the HashiCorp tap, a repository of all our Homebrew packages
 

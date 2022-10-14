@@ -1,6 +1,6 @@
 # Architecture
 
-![](<../.gitbook/assets/image (3) (1).png>)
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original">
 
 
 
