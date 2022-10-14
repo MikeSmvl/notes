@@ -14,7 +14,7 @@
 * [Visual Studio Code](macos-setup/visual-studio-code.md)
 * [Git](macos-setup/git.md)
 
-## Infrastructure as Code
+## Tools & Platforms
 
 * [Terraform](infrastructure-as-code/terraform/README.md)
   * [Installation](infrastructure-as-code/terraform/installation.md)
