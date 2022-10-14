@@ -17,6 +17,9 @@
 ## Tools & Platforms
 
 * [Docker](tools-and-platforms/docker/README.md)
+  * [Best Practices](tools-and-platforms/docker/best-practices/README.md)
+    * [Image Building](tools-and-platforms/docker/best-practices/image-building.md)
+    * [Docker Development](tools-and-platforms/docker/best-practices/docker-development.md)
   * [CLI Cheat Sheet](tools-and-platforms/docker/cli-cheat-sheet.md)
 * [Kubernetes](tools-and-platforms/kubernetes.md)
 * [Backstage](tools-and-platforms/backstage.md)
