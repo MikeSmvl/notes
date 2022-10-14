@@ -16,9 +16,13 @@
 
 ## Tools & Platforms
 
-* [Terraform](tools-and-platforms/terraform/README.md)
-  * [Installation](tools-and-platforms/terraform/installation.md)
-  * [Usage](tools-and-platforms/terraform/usage.md)
+* [Docker](tools-and-platforms/docker/README.md)
+  * [CLI Cheat Sheet](tools-and-platforms/docker/cli-cheat-sheet.md)
+* [Kubernetes](tools-and-platforms/kubernetes.md)
+* [Backstage](tools-and-platforms/backstage.md)
+* [Terraform](infrastructure-as-code/terraform/README.md)
+  * [Installation](infrastructure-as-code/terraform/installation.md)
+  * [Usage](infrastructure-as-code/terraform/usage.md)
 
 ## Linux Fundamentals
 
