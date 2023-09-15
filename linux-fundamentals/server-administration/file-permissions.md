@@ -35,7 +35,7 @@ Each digit is independent of the other two. Therefore, `750` means the current u
 chmod 664 example.txt
 ```
 
-****\
+\
 **Chown command**
 
 The chown command is used to change the owner of files or directories in Linux.
