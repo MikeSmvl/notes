@@ -45,4 +45,6 @@
 ## Security
 
 * [Secure Software Engineering](security/secure-software-engineering.md)
-* [CIA](security/cia.md)
+* [Core Concepts](security/core-concepts.md)
+* [Security Design Principles](security/security-design-principles.md)
+* [Software Security Requirements](security/software-security-requirements.md)
