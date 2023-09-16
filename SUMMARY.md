@@ -30,6 +30,13 @@
   * [Installation](infrastructure-as-code/terraform/installation.md)
   * [Usage](infrastructure-as-code/terraform/usage.md)
 
+## Security
+
+* [Secure Software Engineering](security/secure-software-engineering.md)
+* [Core Concepts](security/cia.md)
+* [Security Design Principles](security/security-design-principles.md)
+* [Software Security Requirements](security/software-security-requirements.md)
+
 ## Linux Fundamentals
 
 * [Introduction](linux-fundamentals/introduction.md)
@@ -41,10 +48,3 @@
   * [Process Management](linux-fundamentals/server-administration/process-management.md)
 * [Networking](linux-fundamentals/networking/README.md)
   * [DNS](linux-fundamentals/networking/dns.md)
-
-## Security
-
-* [Secure Software Engineering](security/secure-software-engineering.md)
-* [Core Concepts](security/core-concepts.md)
-* [Security Design Principles](security/security-design-principles.md)
-* [Software Security Requirements](security/software-security-requirements.md)
