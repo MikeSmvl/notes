@@ -56,4 +56,7 @@ Some important publications are:
 * SP 800-53
 * SP 800-30
 * SP 800-12
+* SP 800-218 (SSDF)
+
+
 
