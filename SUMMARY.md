@@ -36,6 +36,14 @@
 * [Core Concepts](security/cia.md)
 * [Security Design Principles](security/security-design-principles.md)
 * [Software Security Requirements](security/software-security-requirements.md)
+* [Compliance Standards and Policies](security/compliance-standards-and-policies/README.md)
+  * [Sarbanes-Oxley (SOX)](security/compliance-standards-and-policies/sarbanes-oxley-sox.md)
+  * [HIPAA and HITECH](security/compliance-standards-and-policies/hipaa-and-hitech.md)
+  * [Payment Card Industry Data Security Standard (PCI-DSS)](security/compliance-standards-and-policies/payment-card-industry-data-security-standard-pci-dss.md)
+  * [General Data Protection Regulation (GDPR)](security/compliance-standards-and-policies/general-data-protection-regulation-gdpr.md)
+  * [California Consumer Privacy Act (CCPA)](security/compliance-standards-and-policies/california-consumer-privacy-act-ccpa.md)
+  * [Federal Risk and Authorization Management Program (FedRAMP)](security/compliance-standards-and-policies/federal-risk-and-authorization-management-program-fedramp.md)
+* [Privacy & Data](security/privacy-and-data.md)
 
 ## Linux Fundamentals
 
